@@ -1,0 +1,14 @@
+url: "sqlite:///./test.db"
+endpoints:
+  houses:
+    area: float
+    typology: int
+    apartment: bool
+    floor: int
+    country: str
+    district: str
+    county: str
+    price: int
+    condition: str
+    project: bool
+    garage: bool
